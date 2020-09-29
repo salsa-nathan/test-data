@@ -1,7 +1,7 @@
 LGA,lga_pid,population,active,cases,rate,new,band,LGADisplay,data_date,file_processed_date
-Alpine (S),VIC242,9999,0,1,0,0,0,Alpine,27/09/2020,28/09/2020
-Ararat (RC),VIC220,9998,0,7,0,0,0,Ararat,27/09/2020,28/09/2020
-Ballarat (C),VIC241,9997,0,57,0,0,0,Ballarat,27/09/2020,28/09/2020
+Alpine (S),VIC242,8888,0,1,0,0,0,Alpine,27/09/2020,28/09/2020
+Ararat (RC),VIC220,8887,0,7,0,0,0,Ararat,27/09/2020,28/09/2020
+Ballarat (C),VIC241,8886,0,57,0,0,0,Ballarat,27/09/2020,28/09/2020
 Banyule (C),VIC188,131631,2,435,1.5,0,1,Banyule,27/09/2020,28/09/2020
 Bass Coast (S),VIC173,36320,0,11,0,0,0,Bass Coast,27/09/2020,28/09/2020
 Baw Baw (S),VIC194,53396,0,15,0,0,0,Baw Baw,27/09/2020,28/09/2020
